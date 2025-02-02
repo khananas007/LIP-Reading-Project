@@ -7,8 +7,8 @@ This project, **Automated Lip Reading Using Deep Learning Techniques in Python**
 ## Team Members
 
 - **Anas Khan** (21BCE3244)
-- **Madhav** (21BCE3239)
 - **Piyush Kumar** (21BCE3077)
+- **Madhav** (21BCE3239)
 
 ## Features & Objectives
 
